@@ -1,4 +1,4 @@
 # matlab-homework
-matlab experiment of bebut sophomore.  
+matlab experiment of ebut sophomore.  
   
 Just used to record the individual learing process.
